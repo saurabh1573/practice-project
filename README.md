@@ -1,2 +1,2 @@
-# practice-project
-IOT (basic and intermediate )
+# practice-projects
+1. IOT (Basic and intermediate )
